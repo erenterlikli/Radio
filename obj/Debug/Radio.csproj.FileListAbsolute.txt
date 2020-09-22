@@ -1,0 +1,15 @@
+C:\Users\Eren\source\repos\Radio\Radio\bin\Debug\Radio.exe.config
+C:\Users\Eren\source\repos\Radio\Radio\bin\Debug\Radio.exe
+C:\Users\Eren\source\repos\Radio\Radio\bin\Debug\Radio.pdb
+C:\Users\Eren\source\repos\Radio\Radio\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eren\source\repos\Radio\Radio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eren\source\repos\Radio\Radio\obj\Debug\Radio.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\Radio\Radio\obj\Debug\Interop.WMPLib.dll
+C:\Users\Eren\source\repos\Radio\Radio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Eren\source\repos\Radio\Radio\obj\Debug\Radio.csproj.ResolveComReference.cache
+C:\Users\Eren\source\repos\Radio\Radio\obj\Debug\Radio.Form1.resources
+C:\Users\Eren\source\repos\Radio\Radio\obj\Debug\Radio.Properties.Resources.resources
+C:\Users\Eren\source\repos\Radio\Radio\obj\Debug\Radio.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\Radio\Radio\obj\Debug\Radio.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Radio\Radio\obj\Debug\Radio.exe
+C:\Users\Eren\source\repos\Radio\Radio\obj\Debug\Radio.pdb
